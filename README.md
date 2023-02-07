@@ -58,11 +58,7 @@ How are tasks distributed?
 Monitor the windows with at least two workers. 
 Which worker gets which tasks? They take turns.
 
-# Screenshot of Version 2 emitter and listeners
-![v_2Screenshot](v2_screenshot.jpg)
 
-# Screenshot of Version 3 emitter and listeners
-![v_3Screenshot](v3_screenshot.jpg)
 
 ## Reference
 
@@ -72,3 +68,9 @@ Which worker gets which tasks? They take turns.
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+
+# Screenshot of Version 2 emitter and listeners
+![v_2Screenshot](v2_screenshot.jpg)
+
+# Screenshot of Version 3 emitter and listeners
+![v_3Screenshot](v3_screenshot.jpg)
